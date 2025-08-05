@@ -11,3 +11,11 @@ git log
 git restore <filename>
 
 git rm --cached <filename>
+
+git remote -v
+
+git add origin <git hub repo link>
+
+git remote set-url https://<git PAT >@github.com/<repo link>
+
+git push 
